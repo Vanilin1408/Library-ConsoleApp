@@ -21,9 +21,22 @@ class ConsoleApp:
     def add_book_mode(self) -> None:
         """ Режим добавления книги """
         print("\nДобавление/обновление книги...")
+        print("Для отмены введите '0'")
+
         title: str = input("Введите название книги: ")
+        if title == '0':
+            print("Отмена операции.\n")
+            return
+
         author: str = input("Введите автора книги: ")
+        if author == '0':
+            print("Отмена операции.\n")
+            return
+
         year: str = input("Введите год выпуска: ")
+        if year == '0':
+            print("Отмена операции.\n")
+            return
 
         self.__library.add_update_book(title, author, year)
         print('')
@@ -32,8 +45,17 @@ class ConsoleApp:
     def update_status_mode(self) -> None:
         """ Режим обновления статуса книги """
         print("\nОбновление статуса книги...")
+        print("Для отмены введите '0'")
+
         uniq_id: str = input("Введите id книги: ")
+        if uniq_id == '0':
+            print("Отмена операции.\n")
+            return
+
         new_status: str = input("Введите новый статус: ")
+        if uniq_id == '0':
+            print("Отмена операции.\n")
+            return
 
         self.__library.change_status_by_id(uniq_id, new_status)
         print('')
@@ -42,7 +64,13 @@ class ConsoleApp:
     def borrow_book_mode(self) -> None:
         """ Режим выдачи книг по id """
         print("\nВыдача книги...")
+        print("Для отмены введите '0'")
+
         uniq_id: str = input("Введите id книги, которая выдается: ")
+        if uniq_id == '0':
+            print("Отмена операции.\n")
+            return
+
         self.__library.borrow_book(uniq_id)
         print('')
         return
@@ -50,7 +78,13 @@ class ConsoleApp:
     def delete_book_mode(self) -> None:
         """ Режим полного удаления книг по id """
         print("\nПолное удаление книги...")
+        print("Для отмены введите '0'")
+
         uniq_id: str = input("Введите id книги, которую необходимо удалить: ")
+        if uniq_id == '0':
+            print("Отмена операции.\n")
+            return
+
         self.__library.delete_book_by_id(uniq_id)
         print('')
         return
