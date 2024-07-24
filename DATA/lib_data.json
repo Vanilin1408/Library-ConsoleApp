@@ -1,0 +1,135 @@
+{
+    "525d7212cf": {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "year": "1876",
+        "count": 1,
+        "status": "в наличии"
+    },
+    "2f6794581a": {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": "1949",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "17c34895d6": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": "1960",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "4d6399615b": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": "1813",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "db1d733dc6": {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": "1851",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "ca1f424746": {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": "1869",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "e18fefb959": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": "1951",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "56c99c767b": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": "1937",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "5f6ca33b4d": {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": "1953",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "5362bc7479": {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": "1847",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "8acefad32d": {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": "1932",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "cf9e274f2a": {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "year": "1847",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "560a0ed1e8": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "year": "1945",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "5d29ee0406": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year": "800 BC",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "309d82267a": {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "year": "1922",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "7b2efd3bfe": {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": "1866",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "d0d0f427ac": {
+        "title": "The Iliad",
+        "author": "Homer",
+        "year": "762 BC",
+        "count": 8,
+        "status": "в наличии"
+    },
+    "a247551e17": {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "year": "1961",
+        "count": 7,
+        "status": "в наличии"
+    },
+    "e6c8a1af8d": {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "year": "1862",
+        "count": 8,
+        "status": "в наличии"
+    }
+}
