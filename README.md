@@ -14,7 +14,7 @@
 ![image](https://github.com/user-attachments/assets/b08fcfda-bcd0-4db0-acbc-83ff69a20589)
 
 - Выдача книги:
-- 
+
 ![image](https://github.com/user-attachments/assets/354506ff-a060-45a7-817c-878542e27bc0)
 
 - Состояние книг после выдачи:
